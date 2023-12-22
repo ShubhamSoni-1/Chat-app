@@ -30,7 +30,3 @@
 
 ####  Then view your project running locally on: http://localhost:80
 
-### View this project live:
-
-https://quick-chat-r3ks.onrender.com
-
